@@ -1,2 +1,6 @@
-CSS 3 Buttons: Brad Hussey
-Vampire: Alvaro Montoro
+# Credits
+
+<ol>
+ <li>CSS Fancy Buttons: Brad Hussey</li>
+ <li>Vampire: Alvaro Montoro</li>
+</ol>
